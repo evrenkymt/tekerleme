@@ -17,3 +17,4 @@ for i in range(len(tekerleme)):
     liste.append([tekerleme[i]])
 df = pd.DataFrame(liste,columns = ["Tekerlemeler"])
 print(df)
+print(df)
